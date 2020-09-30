@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Tag","Massage");
 
         Log.i("Tag","Massage");
+
+        Log.i("Tag","Massage");
     }
 }
